@@ -1,6 +1,6 @@
-//EXAMPLE CODE, NOT TESTED, see index2.js for fromNullable, fold etc.
-//From Brian Lonsdorf
-//https://egghead.io/lessons/javascript-a-collection-of-either-examples-compared-to-imperative-code
+// EXAMPLE CODE, NOT TESTED, see index2.js for fromNullable, fold etc.
+// Imperative vs Functional code by Brian Lonsdorf
+// https://egghead.io/lessons/javascript-a-collection-of-either-examples-compared-to-imperative-code
 
 // EXAMPLE 1
 const openSite = () => {
